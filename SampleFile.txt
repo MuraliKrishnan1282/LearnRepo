@@ -1,3 +1,5 @@
 Created a new file from Github Desktop and not from Browser
 File committed from Desktop and update in the browser
-Now, Going to commit from Browser
+Now, Going to commit from Browser.
+
+File updated from VS code
